@@ -17,3 +17,5 @@ const db = firebase.firestore();
 
 // Nama Koleksi
 const COLLECTION_NILAI = "nilai_mahasiswa";
+const COLLECTION_MAHASISWA = "data_mahasiswa";
+const COLLECTION_MK = "data_matakuliah";
